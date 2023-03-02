@@ -4,7 +4,8 @@ int main(void) {
 
 for (int i = 1; i < 11; i++)
 {
-puts("%d", i);
+printf("%d", i);
 }
+printf("Task 3 checked");
 return 0;
 }
